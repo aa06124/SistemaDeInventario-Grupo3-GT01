@@ -1,5 +1,5 @@
 Proyecto: Sistema de Inventario
 
 
-Integrantes:			Carnet
+Integrantes:
 Raúl Enrique Arevalo Avila  	AA06124
